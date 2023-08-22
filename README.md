@@ -41,9 +41,3 @@ The Celestial Bodies project is a web page that serves as an interactive encyclo
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-\
-```
-
-Make sure to replace the placeholders such as `[your-username]` and add actual screenshots in the `screenshots` section. Also, if you decide to incorporate JavaScript for added interactivity, you can mention it in the README file and provide relevant information about how it enhances the user experience.
-
-Feel free to customize this template to suit your project's specifics and your personal style. Good luck with your Celestial Bodies project!
